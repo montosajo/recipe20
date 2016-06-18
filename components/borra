@@ -1,0 +1,12 @@
+ <View ><Text>TOP - {this.state.timeLineTop}</Text>
+        if (mockedData[numa].id =="A"){
+        longa = 30000;
+        
+        
+    }
+    else if (mockedData[numa].id =="B"){
+        longa = 40000;
+        
+        
+    }
+    else {longa =3500} 
